@@ -1,0 +1,25 @@
+# Ignore build directories
+/build/
+
+# Ignore CMake cache files
+CMakeCache.txt
+CMakeFiles/
+
+# Ignore compiled object files
+*.o
+*.obj
+*.lo
+*.la
+
+# Ignore IDE specific files (e.g., Visual Studio or Xcode)
+.vscode/
+.idea/
+*.vcxproj
+*.xcodeproj
+
+# Ignore temporary files
+*.tmp
+*.bak
+
+# Ignore uWebSockets specific files (if built separately)
+
